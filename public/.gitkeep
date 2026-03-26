@@ -1,0 +1,10 @@
+# Images should be placed in this directory
+# The website references the following images:
+# - logo.png (Logo for navigation bar)
+# - professional-image.jpg (About section image)
+# - project-1.jpg, project-2.jpg, project-3.jpg (Portfolio project images)
+
+# To add images:
+# 1. Download professional images from Google Images, Unsplash, or Pexels
+# 2. Save them in this /public directory with the exact filenames above
+# 3. The images will automatically be served by Next.js
